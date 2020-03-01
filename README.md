@@ -9,20 +9,9 @@
 
 -->
 
-# Title
-
-> summary
-
-
 # WiMLDS Sydney fast.ai study group
 
-<img src="title_image.JPG" alt="WiMLDS-Logo" align="left" style="width: 150px;">
-
-Hi! Thanks for joining us :) 
-
-Here are all the documents and resources that that you will need to participate.  Most detailed planning and questions will go through our slack workspace, but this repo is a fixed reference for all resources so that they don't get lost in the chat. If we run it again this will also allow us to learn from, and build on, the experiences of this group.
-
-We will also be adding a selection of worked example notebooks depending on what people produce and/or need.  If you create any useful helper functions, interesting datasets or fun models that you want to share or get feedback on, we would love for you to submit a PR and include them here as well.
+> Docs and resources for WiMLDS fast.ai study group
 
 
 ## How to get started
