@@ -9,37 +9,116 @@
 
 -->
 
+# Title
+
+> summary
+
+
 # WiMLDS Sydney fast.ai study group
 
-> Here are all the documents and resources that that you will need to participate 
+<img src="title_image.JPG" alt="WiMLDS-Logo" align="left" style="width: 150px;">
+
+Hi! Thanks for joining us :) 
+
+Here are all the documents and resources that that you will need to participate.  Most detailed planning and questions will go through our slack workspace, but this repo is a fixed reference for all resources so that they don't get lost in the chat. If we run it again this will also allow us to learn from, and build on, the experiences of this group.
+
+We will also be adding a selection of worked example notebooks depending on what people produce and/or need.  If you create any useful helper functions, interesting datasets or fun models that you want to share or get feedback on, we would love for you to submit a PR and include them here as well.
 
 
-This file will become your README and also the index of your documentation.
+## How to get started
 
-## Install
+<b>0. RSVP to the kickoff event</b>
 
-`pip install your_project_name`
+http://bit.ly/WiMLDSfastai
 
-## How to use
+<b>1. Join us on slack by completing our survey</b>
 
-Fill me in please! Don't forget code examples:
-<div class="codecell" markdown="1">
-<div class="input_area" markdown="1">
+http://bit.ly/WiMLDS_Slack_Request
 
-```python
-1+1
-```
+Please note, that whilst WiMLDS events are open to all, in order to provide a safe space for learning, the slack channel itself is open to women and gender minority individuals only. We hope you understand. Do feel free to join us at the kickoff event, but ongoing participation in the study group will not be possible if you cannot join on slack. 
 
-</div>
-<div class="output_area" markdown="1">
+<b>2. Setup a personal AWS account and request a service limit increase</b>
+
+Our kickoff event has been kindly sponsored by AWS Sydney, and as part of this, participants will be provided with a voucher for cloud compute credits. If you follow all the necessary best practices that are shared during the training at the kickoff event, it is our expectation that you will be able to complete the course without incurring any additional cloud compute costs.  
+
+***This step must be completed in advance of the kickoff event so that you can add the credits to your account on the night***
+
+If you find that you exhaust your voucher before completing the course, there's nothing stopping you from completing it in some other manner (there are plenty of good options here: https://course.fast.ai/#using-a-gpu) and someone in the slack channel will be able to support you to find the best choice if required.
+
+## Schedule
+
+All sessions will be run via Zoom.  Meeting links will be posted prior to each session via slack.  
+
+Note: Dates for part 2 are not scheduled - there will be an optional break inserted to catch up on exercises if required by the majority of the group.
+
+#### Format
+
+The course is entirely self-contained and can easily be completed in an asynchronous fashion. The idea behind a study group like this is simply that with a bit of accountability and support, the likelihood of success is much higher, and also much more fun. If there is a session or two that don't work for your schedule, this in no way precludes you from catching up in your own time and jumping back in. 
+
+Each meeting will be approximately 1.5hrs in duration. The first half of the session will be a review of concepts from the previous lesson, and watching a portion of videos from the current lesson. The second half will be the interactive portion, where we discuss the newly presented concepts and/or work through demos or exercises.
+
+In the time between each session, you will watch the remaining videos, complete the homework exercises and support each other via the slack channel.
+
+#### Facilitators
+
+We are looking for volunteer facilitators! The organisational team have lots of varied deep learning experience, but are *not* fast.ai experts. We are learning alongside you, and are committed to running all the sessions if nobody puts their hand up, but we encourage anyone to step out of their comfort zone and challenge themselves to facilitating a session. There's often no better way to learn and truely understand than to explain to others!
+
+Feel free to nominate a session from the topic list below if you have a particular interest, otherwise just pick a date and jump in!
+
+<em>What is involved in facilitating a session?</em>
+
+This is somewhat up to the facilitator - this is a guide for where to start, but please adapt based on your skills / interest / discussion in the slack channel showing a particular need. It'll take around 2 hours of additional preparation time.
+
+1. Prepare 5-15 minutes of content to consolidate the previous session. This could be a presentation or worked examples depending on your preference. There is some great content available here to help: https://github.com/hiromis/notes
+2. You should review the relevant content ahead of time and select the key videos to share during the session (suggested up to half an hour). 
+3. Plan some prompts for discussion and/or examples to work through. This can be as loose or as structured as you like - different weeks will lend themselves to different formats.
+4. OPTIONAL: 100% of classes will be hosted via zoom, but if you have access to a suitable meeting room where you can offer an in-person option as well for your particular week, please feel free. 
+
+| Event      | Date/Time          | Location            | Facilitator    | Topic                             |
+|------------|-----------------------------|---------------------|-----------------------------------------|--------|
+| Kickoff    | Monday, March 23rd, 6pm     | AWS, Sydney| Moose, Georgie    | SageMaker tutorial, cloud credit distribution, introductory session|
+| <b>Part 1.</b>  |               |                     |             |                                    |
+| Session 1  | Monday, April 6th, 8pm      | Online              | Georgie | Image classification  |
+| Session 2  | Monday, April 20th, 8pm     | Online              | Shel    | Production, SGD from scratch  |
+| Session 3  | Monday, May 4th, 8pm        | Online              | TBC     | Multi-label, Segmentation   |
+| Session 4  | Monday, May 18th, 8pm       | Online              | Dana    | NLP, Tabular data, Recsys                                     |
+| Session 5  | Monday, June 1st, 8pm       | Online              | TBC     | Backprop, Neural net from scratch  |
+| Session 6  | Monday, June 15th, 8pm      | Online              | TBC     | CNN deep dive, Ethics  |
+| Session 7  | Monday, June 29th, 8pm      | Online              | TBC     | Resnet, U-net, GANs  |
+| <b>Part 2.</b>    |  |
+| Session 8  | TBC       | Online              | Georgie | Backprop from the foundations |
+| Session 9  | TBC      | Online              | Shel    | The training in depth | 
+| Session 10 | TBC     | Online              | Dana    | Looking inside the model | 
+| Session 11 | TBC    | Online              | TBC     | Data Block API, generic optimiser |
+| Session 12 | TBC    | Online              | TBC     | Advanced training, UMLFiT |
+| Session 13 | TBC | Online              | TBC     | Swift - deep learning basics |
+| Session 14 | TBC| Online              | TBC     | Swift - putting it all together | 
+| PARTY      | Probably a Friday night     | Somewhere super fun | |Someone's company want to sponsor this? |
+
+## Resources
+
+The course: https://course.fast.ai/
+
+## Status
+
+This section should be filled in on a week-by-week basis by the facilitator so that we have precise expectations to help us stay on track and can always look back and review past experiences.
+
+<b>0. Kickoff Session</b>
+
+Prework:
+* Setup AWS personal account & request service limit increase
+* Bring laptop with you
+
+In Class:
+
+After Class:
+
+<b>1. Lesson 1</b>
+
+Prework:
+
+In Class:
+
+After Class:
 
 
-
-
-    2
-
-
-
-</div>
-
-</div>
