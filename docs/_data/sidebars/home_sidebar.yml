@@ -10,8 +10,11 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
-      url: /core
+      title: Utils Module
+      url: /utils
+    - output: web,pdf
+      title: Title
+      url: /Lesson14_Examples
     output: web
     title: wimlds_fastai
   output: web

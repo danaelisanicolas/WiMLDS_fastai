@@ -1,6 +1,7 @@
 {
   "wimlds_fastai": {
     "Overview": "/",
-    "module name here": "/core"
+    "Utils Module": "/utils",
+    "Title": "/Lesson14_Examples"
   }
 }
