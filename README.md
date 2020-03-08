@@ -69,7 +69,7 @@ This is somewhat up to the facilitator - this is a guide for where to start, but
 | <b>Part 1.</b>  |               |                     |             |                                    |
 | Session 1  | Monday, April 6th, 8pm      | Online              | Georgie | Image classification  |
 | Session 2  | Monday, April 20th, 8pm     | Online              | Shel    | Production, SGD from scratch  |
-| Session 3  | Monday, May 4th, 8pm        | Online              | TBC     | Multi-label, Segmentation   |
+| Session 3  | Monday, May 4th, 8pm        | Online              | Ankita     | Multi-label, Segmentation   |
 | Session 4  | Monday, May 18th, 8pm       | Online              | Dana    | NLP, Tabular data, Recsys                                     |
 | Session 5  | Monday, June 1st, 8pm       | Online              | TBC     | Backprop, Neural net from scratch  |
 | Session 6  | Monday, June 15th, 8pm      | Online              | TBC     | CNN deep dive, Ethics  |
