@@ -30,6 +30,8 @@ Please note, that whilst WiMLDS events are open to all, in order to provide a sa
 
 Our kickoff event has been kindly sponsored by AWS Sydney, and as part of this, participants will be provided with a voucher for cloud compute credits. If you follow all the necessary best practices that are shared during the training at the kickoff event, it is our expectation that you will be able to complete the course without incurring any additional cloud compute costs.  
 
+Instructions to set up this account correctly are available <a href='https://github.com/gkennos/WiMLDS_fastai/blob/master/docs/wimlds_prep.pdf'>here</a> (please note that they are correct at the time of writing but you may want to check official AWS documentation if you are coming to this repo at a later date).
+
 ***This step must be completed in advance of the kickoff event so that you can add the credits to your account on the night***
 
 If you find that you exhaust your voucher before completing the course, there's nothing stopping you from completing it in some other manner (there are plenty of good options here: https://course.fast.ai/#using-a-gpu) and someone in the slack channel will be able to support you to find the best choice if required.
